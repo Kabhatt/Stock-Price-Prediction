@@ -61,7 +61,7 @@ Overall, the stock market is a vital component of the financial system, contribu
 <span style ="color:teal; font-size:20pt;"> The Project: </span> 
 * We will choose two stocks of our liking and gather data related to their previous performance.
 * The companies I will be choosing are: 
-  * Tesla 
+  * OCGN 
   * AMC
   * Google (possibly)
 * We will use the Linear Regression Algorithm and Long Short-Term Memory (LSTM) networks to build prediction models for each.
@@ -70,5 +70,6 @@ Overall, the stock market is a vital component of the financial system, contribu
 Linear Regression is a supervised learning algorithm to predict the outcome of a continuous variable. It's a statistical tool used for solving Machine Learning Problems. It can be used to predict the total revenue of the company or the total units expected to be sold of a certain product 
 ![Example Image](https://editor.analyticsvidhya.com/uploads/375512.jpg)
 Other usages of this tool: 
-* weather prediction 
+* weather prediction
+
 * Stock price prediction
